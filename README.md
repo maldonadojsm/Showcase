@@ -5,7 +5,7 @@ This PHP web application allows corporate clients and workshop managers to manag
 **Corporate Clients are able to:**
 
 1. Create personal accounts to manage reservations.
-2. Update existing reservations.
+2. Update existing workshop reservations.
 3. Delete existing reservations.
 4. Place new workshop reservations.
 
