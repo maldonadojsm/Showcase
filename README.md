@@ -1,4 +1,4 @@
-# Showcase: 
+# Showcase
 
 A PHP web application that allows corporate clients and workshop managers to manage existing/non-existing workshop reservations.
 
