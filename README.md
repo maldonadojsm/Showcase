@@ -1,6 +1,4 @@
-# Workshop-Reservation-Platform
-
-This PHP web application allows corporate clients and workshop managers to manage existing/non-existing workshop reservations.
+# Showcase: A PHP web application that allows corporate clients and workshop managers to manage existing/non-existing workshop reservations.
 
 **Corporate Clients are able to:**
 
